@@ -1,0 +1,21 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Camilo Valencia",
+  "license": "ISC",
+  "description": "Api dripp",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
+  }
+}
